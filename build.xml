@@ -86,13 +86,6 @@
 	</description>
 
     <zip destfile="${build}/${bundlefilename}.jar">
-      <zipfileset src="${lib}/rt/jCharts-0.7.5.jar" />
-      <zipfileset src="${lib}/rt/jaxen-core.jar" />
-      <zipfileset src="${lib}/rt/jaxen-jdom.jar" />
-      <zipfileset src="${lib}/rt/jdom.jar" />
-      <zipfileset src="${lib}/rt/saxpath.jar" />
-      <zipfileset src="${lib}/rt/commons-math-1.1.jar" />
-      <zipfileset src="${lib}/rt/commons-collections-3.2.jar" />
       <zipfileset src="${build}/${jarfilename}.jar" />
     </zip>
 
