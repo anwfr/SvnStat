@@ -1,0 +1,46 @@
+<project name="SvnStat" default="svnstat" basedir="..">
+
+	<target name="svnlog">
+		<exec executable="svn" output="tmp/test_svnlog.xml">
+			<arg line="log --verbose --xml https://SUBVERSION_REPOSITORY" />
+		</exec>
+	</target>
+
+	<target name="svnstat" >
+
+		<antcall target="svnstat-p">
+			<param name="begin" value="2006-05-05" />
+			<param name="end" value="2006-05-31" />
+			<param name="date" value="2006_05" />
+		</antcall>
+
+		<antcall target="svnstat-p">
+			<param name="begin" value="2006-06-01" />
+			<param name="end" value="2006-06-30" />
+			<param name="date" value="2006_06" />
+		</antcall>
+
+		<antcall target="svnstat-p">
+			<param name="begin" value="2006-05-05" />
+			<param name="end" value="9999-99-99" />
+			<param name="date" value="2006" />
+		</antcall>
+
+	</target>
+
+	<target name="svnstat-p">
+		<delete dir="tmp/svnstat_${date}" />
+		<java classname="de.agentlab.svnstat.SvnStat" fork="yes">
+			<arg line="-r ${tmp}/test_svnlog.xml" />
+			<arg line="-d tmp/svnstat_${date}" />
+			<arg line="-begin ${begin}" />
+			<arg line="-end ${end}" />
+
+			<classpath>
+				<pathelement path="build/SvnStat-all.jar" />
+			</classpath>
+		</java>
+	</target>
+
+</project>
+

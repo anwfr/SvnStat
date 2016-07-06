@@ -1,0 +1,9653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<logentry
+   revision="396">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-16T22:05:58.774139Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="395">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-16T17:48:13.598728Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="394">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-16T16:44:25.553912Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="393">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-16T16:34:37.232560Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="392">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-16T15:01:53.925762Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="391">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-16T14:53:56.383529Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="390">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-16T14:33:32.300934Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg>merged</msg>
+</logentry>
+<logentry
+   revision="389">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-16T14:24:41.526155Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="388">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-16T12:47:17.652511Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="387">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-16T11:19:09.178636Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="386">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-16T11:16:12.706267Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="385">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-15T09:06:15.894673Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="384">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-15T09:04:52.051732Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="383">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-14T16:24:11.883477Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="382">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-14T16:00:26.301743Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="381">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-14T15:59:30.155772Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="380">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-14T14:32:22.320779Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="379">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-14T07:35:39.216961Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="378">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-14T07:29:09.111766Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="377">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-14T07:27:38.061180Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="376">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-14T07:24:28.495997Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="375">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-13T12:53:59.224460Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="374">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-12T16:04:06.952796Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="373">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-12T16:03:54.043939Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="372">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-12T14:47:26.734228Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="371">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-12T11:52:31.051764Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="370">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-12T11:41:14.584116Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="369">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-12T10:03:52.750650Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="R">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="368">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-12T09:14:30.700285Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="367">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-11T11:15:10.507122Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="366">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-11T09:06:27.105583Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="365">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-11T08:44:51.021766Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="364">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-11T08:43:40.501391Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="363">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-11T08:37:51.347646Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="362">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-10T15:16:57.354753Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="361">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-10T14:21:32.875229Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="360">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-10T14:19:20.403692Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="347"
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="352"
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="359">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-10T11:14:40.731962Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="358">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-10T11:08:33.505886Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="357">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-10T11:07:57.717153Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="356">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-09T15:30:14.243632Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="355">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-09T15:25:35.311087Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="354">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-09T14:33:18.416760Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="353">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-09T14:33:07.651273Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="352">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-09T14:30:37.175354Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="351">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-09T07:42:51.003800Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="350">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-09T06:21:25.323896Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="349">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T21:11:25.195734Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="348">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T21:07:06.093072Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="347">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T18:23:05.274263Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="346">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-08T17:40:11.941112Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="345">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-08T17:39:35.433959Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="344">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T17:12:54.360433Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="251"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="251"
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="251"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="343">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-08T14:15:55.123398Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="342">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-08T14:15:31.263818Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="341">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T11:17:18.761044Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="340">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T10:51:11.951430Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="339">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-08T08:28:49.552276Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="338">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-08T08:05:26.553883Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="337">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-08T08:05:06.027814Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="336">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T07:03:49.365593Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="335">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-08T06:49:01.336628Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="334">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-07T13:15:33.857774Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="333">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-07T11:52:45.708005Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="332">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-07T11:26:44.337926Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="331">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-07T09:28:50.205034Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="330">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-07T08:46:14.593546Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="329">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-07T08:32:34.618305Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="328">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-07T07:31:12.082426Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="327">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-07T07:29:14.712131Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="326">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-07T07:27:29.930697Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="325">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-07T07:06:42.099441Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="324">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T18:46:23.001248Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="323">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T18:04:23.280967Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="322">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T16:07:52.103242Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="321">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T14:12:56.672264Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="320">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T14:11:56.080030Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="260"
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="319">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T13:23:29.519395Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="318">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T12:42:49.310781Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="317">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T11:47:10.001113Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="316">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T11:38:46.529408Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="315">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T09:30:41.026498Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="314">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T09:04:24.738119Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="313">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T08:28:17.758322Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="312">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T08:26:14.703114Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="311">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T08:25:42.126140Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="310">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-06T08:25:24.931669Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="309">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T08:09:23.687577Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="308">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-06T06:54:08.270143Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="307">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-05T19:32:35.634887Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="306">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-05T13:59:52.156827Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="305">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-04T11:30:27.687348Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="304">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-04T06:47:13.251537Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="303">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-03T20:55:41.701451Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="302">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-03T14:16:27.486719Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="301">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-03T13:17:55.103339Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="300">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-03T07:22:09.399318Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="299">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-02T18:18:32.572683Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="298">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-02T15:17:08.665182Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="297">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-02T14:58:53.933352Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="296">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-02T13:35:19.169875Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="295">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-02T12:31:33.950920Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="294">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-02T11:04:46.249744Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="251"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="293">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-01T16:06:12.925937Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="292">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-01T15:47:05.911879Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="291">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-06-01T13:37:47.061845Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="290">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-01T12:24:19.162704Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="289">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-06-01T11:55:24.301110Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="288">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-01T07:36:51.193779Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="287">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-06-01T07:31:30.329104Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="286">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T18:52:46.863203Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="285">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T18:50:17.141611Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="284">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T18:42:31.594505Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="283">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T18:17:19.233391Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="282">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T18:11:34.057868Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="281">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-31T14:46:12.588046Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="280">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T13:00:37.609660Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="279">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T12:59:45.078014Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="278">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T12:45:38.705753Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="277">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-31T12:19:36.844926Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="276">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T11:55:37.968126Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="275">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T10:07:22.444643Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="274">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-31T09:49:29.624004Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="273">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T09:20:33.474195Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="272">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-31T08:20:42.132519Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="271">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-31T08:13:08.625545Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="270">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-31T08:02:30.071451Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="269">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-30T19:47:38.396048Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="268">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-30T19:39:07.107188Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="267">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-30T19:25:16.068652Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="266">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-30T19:14:53.741410Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="265">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-30T14:44:24.146683Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="264">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-30T09:58:20.644013Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="263">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-30T08:19:05.556511Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="262">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-30T08:17:31.010841Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="261">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-29T15:41:09.143481Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="260">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-29T15:02:55.660589Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="259">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-28T18:43:51.760239Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="258">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-28T18:40:05.420266Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="257">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-28T13:22:11.831925Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="256">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-28T12:56:26.477565Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="255">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-28T11:43:40.335201Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="254">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-28T08:48:05.230784Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="253">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T16:15:37.964767Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="252">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T14:59:30.686648Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="251">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T13:33:11.777698Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="250">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T11:47:32.278724Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="249">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T10:52:39.836650Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="248">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T09:58:51.051202Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="247">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-27T09:43:33.333637Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="246">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T19:22:39.081017Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="245">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T15:30:04.304879Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="244">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T14:47:27.109735Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="243">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-26T11:49:22.389813Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="242">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T11:27:21.169930Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="241">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T09:34:58.999224Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="240">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T09:13:59.726900Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="239">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T08:35:05.327730Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="238">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T07:54:32.526231Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="237">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-26T07:42:33.821922Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="236">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T10:26:03.357978Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="235">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T10:25:22.739872Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="234">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T09:58:18.969243Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="233">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T07:44:17.498922Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="232">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T07:43:40.758898Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="231">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T07:36:29.708613Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="230">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T06:52:36.103059Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="229">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-25T06:44:59.056460Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="228">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-24T15:55:42.278113Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="227">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-24T14:15:33.722987Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="226">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:46:00.756489Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="225">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:36:47.647701Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="224">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:15:42.708407Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="223">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:14:16.502496Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="222">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:13:04.554821Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="221">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:10:29.064571Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="220">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-24T12:09:51.997374Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="219">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-24T11:50:03.006847Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="218">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-24T11:00:57.993924Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="217">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-24T10:59:16.477192Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="216">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T16:46:00.063038Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="215">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T16:20:22.140696Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="214">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-23T13:23:30.260922Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="213">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T09:43:26.567327Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="212">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T09:31:19.700484Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="211">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T08:57:09.919604Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="210">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T08:14:39.574517Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="209">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T08:00:45.769593Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="208">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T07:18:46.381135Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="207">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-23T06:44:24.315653Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="201"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="201"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="206">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-22T13:22:38.940222Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="205">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-22T13:21:56.196364Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="204">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-22T11:56:47.307798Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="203">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-22T11:49:23.693484Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="202">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-22T10:57:09.072897Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="201">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-22T09:48:37.754002Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="200">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-22T08:45:50.790473Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="199">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-22T08:16:47.511225Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="198">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-21T19:18:14.738393Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="197">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T18:07:00.767251Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="169"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="195"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="183"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="183"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="195"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="195"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="169"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="193"
+   action="R">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="194"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="196"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="183"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="172"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="174"
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="196">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T17:49:13.314761Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="195">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T17:43:20.752154Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="194">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T15:07:46.469842Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="193">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T11:18:26.189738Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="192">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T09:30:19.481319Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="191">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-21T09:10:52.828770Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="190">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T18:16:48.202406Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="189">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T18:16:06.965652Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="188">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T15:35:56.721056Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="186"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="187">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T12:51:44.204684Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="186">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:47:32.202080Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="185">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:47:08.554412Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="184">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:45:45.712218Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="183"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="183">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:43:09.005553Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="182">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:43:05.486251Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="132"
+   action="R">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="181">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:41:38.477217Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="180">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:41:27.974821Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="179">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:41:07.593332Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="178">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:40:57.252770Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="177">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:40:49.400679Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="176">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:40:38.774191Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="175">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:40:28.606715Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="174">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:40:16.825506Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="173">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T11:40:07.674772Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="172">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T09:25:36.351394Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="170"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="170"
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="132"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="132"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="132"
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="171">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T08:57:26.138859Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="169"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="170">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T08:46:17.132870Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="132"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="169"
+   action="R">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="169"
+   action="R">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="169">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-20T06:41:32.177939Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="168">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-19T17:24:15.830979Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="167">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-19T16:34:17.244932Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="166">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-19T16:13:56.377638Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="165">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-19T15:50:34.495040Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="164">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-19T15:20:36.002720Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="163">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-19T14:50:17.964408Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="162">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-19T13:00:49.735525Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="161">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-19T12:49:45.811191Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="160">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-19T11:36:42.655612Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="159">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-19T06:13:38.821973Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="158">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-18T15:38:46.391240Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="157">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-18T09:36:38.904824Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="156">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-18T09:19:49.825068Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="155">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-18T08:09:12.060647Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="154">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-18T08:01:52.965633Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="153">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-18T07:52:59.502787Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="152">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-18T07:45:39.246426Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="151">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-17T15:50:06.046711Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="150">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T15:32:26.998951Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="149">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T15:24:48.633056Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="148">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T14:59:58.893148Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="147">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T07:13:42.161740Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="146">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T07:07:46.494844Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="145">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T07:00:48.362539Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="144">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T06:48:06.051438Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="143">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-17T06:38:49.837016Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="132"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="142">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-17T06:27:15.117920Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="141">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-16T11:03:44.693949Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="140">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-16T07:41:41.070884Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="139">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-16T07:22:50.467925Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="138">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-15T16:13:29.373991Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="137">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-15T16:11:20.928710Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="136">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-15T16:11:06.979450Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="135">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-15T14:54:36.869441Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="134">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T14:49:33.334089Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="133">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T14:18:28.570802Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="132">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T12:49:33.343941Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="131">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T12:10:20.176526Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="130">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-15T10:56:36.918052Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="129">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T10:56:14.464318Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="128">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-15T08:36:24.153707Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="127">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T08:25:39.504913Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="126">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T08:15:26.408091Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="125">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T08:12:18.373035Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="124">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-15T07:58:30.303345Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="123">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-14T19:38:59.868304Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="122">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-14T19:21:02.933661Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="121">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-14T19:18:22.209372Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="120">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-14T19:17:35.872365Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="119">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-13T12:04:39.376146Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="118">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-13T06:11:00.345046Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="117">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T19:56:33.341978Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="116">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T18:08:50.920097Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="115">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T15:30:35.012415Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="114">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T11:35:07.120905Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="113">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T11:12:05.782303Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="112">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T11:04:18.288511Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="110"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="104"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="111">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T11:03:20.977354Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="110">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T11:02:18.743328Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="109">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T11:01:07.523922Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="108">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-12T10:51:49.302700Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="107">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-12T10:51:36.691337Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="106">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T10:10:08.666648Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="105">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-12T07:11:12.058104Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="104">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-12T06:43:15.066401Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="103">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-12T06:41:19.736859Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="102">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-12T06:40:02.347482Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="101">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T20:40:41.570519Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="100">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T20:38:20.201396Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="99">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T18:40:04.288483Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="98">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T18:35:28.425907Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="97">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T18:17:51.953472Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="96">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T16:34:58.127241Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="95">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T16:06:26.536417Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="94">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T15:44:12.898800Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="93">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T15:27:52.130010Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="92">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T13:37:07.941545Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="91">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T13:30:57.504228Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="90"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="90"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="90">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T12:53:31.623864Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="89"
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="89">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-11T12:50:43.322759Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="88"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="88">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-11T08:29:44.605130Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="87">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T14:38:19.432317Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="86">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T14:17:09.757177Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="85">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-10T13:59:47.518528Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="84">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T13:37:20.848039Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="83">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T12:31:16.759129Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="82">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T12:07:30.710812Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="81">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T11:41:06.982221Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="80">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T11:02:46.955603Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="79">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T11:02:02.053590Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="78">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T10:23:07.674823Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="77"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="77">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T10:14:55.526234Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="76"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="76"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="76">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T10:05:46.421541Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="75">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T09:59:55.794376Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="74"
+   action="R">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="74">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T09:55:43.742613Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="73">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T09:44:11.424070Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="72">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T08:38:54.904777Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="71">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-10T08:25:37.714422Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="70">
+<author>uid=user3,dc=iteratec,dc=de</author>
+<date>2006-05-10T08:09:41.213259Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="69">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T07:36:46.084685Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="68">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-10T07:34:36.290623Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="67">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-09T15:35:10.635926Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="66">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-09T13:25:49.272997Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="65">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-09T12:58:38.741926Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="64">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-09T12:58:21.906052Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="63">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-09T11:28:29.832696Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="62"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="62">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-09T11:27:00.950987Z</date>
+<paths>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="61"
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="61"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="61">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-09T09:10:46.591047Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="60">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T21:41:16.823517Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="59">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T21:24:24.590270Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="58">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T20:01:22.828914Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="45"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="57">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T19:14:06.971164Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="56">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T19:11:45.196782Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="55">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T18:49:31.798602Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="54">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T18:13:27.156855Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="53">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T17:54:16.853000Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="52">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T16:42:49.361732Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="51">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T16:41:58.856028Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="50">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-08T13:33:13.811523Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="49">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-08T09:06:10.958869Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="48">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-08T09:04:02.496442Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="47">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T14:58:54.735585Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="46">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T12:13:29.729873Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="45">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T12:10:38.719145Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="28"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="44"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="44"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="44">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T12:03:33.207089Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="37"
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="43">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T11:56:11.249189Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="42">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T11:05:53.996078Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="41">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T10:38:15.061471Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="40">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T08:10:34.049841Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="39">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T07:56:30.369826Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="38">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-07T07:16:41.830678Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="37">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T16:49:53.041160Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="36">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T16:45:07.553970Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="35">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T16:02:24.772280Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="34">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T13:01:04.805157Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="33">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T12:58:57.294495Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="32">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T10:28:14.959295Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="31"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="31">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T09:54:20.498627Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="30">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T08:06:10.215469Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   copyfrom-path="/somefile"
+   copyfrom-rev="20"
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="29">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T06:32:36.602388Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="28">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-06T06:31:30.346186Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="27">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T21:22:37.005941Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="26">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T20:50:40.646859Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="25">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T19:56:53.419039Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="24">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T19:50:09.589144Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="23">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T18:41:49.799151Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="22">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T12:03:22.104672Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="21">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T12:00:57.918957Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="20">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T11:59:17.364566Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="19">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-05T09:53:49.377071Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="18">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-05T09:53:30.341588Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="17">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-05T08:18:15.261553Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="16">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:13:08.109453Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="15">
+<author>uid=user2,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:11:37.028979Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="14">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:09:00.342687Z</date>
+<paths>
+<path
+   action="D">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="13">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:04:35.819773Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="12">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:04:27.362085Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="11">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:04:18.363295Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="10">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:04:09.657412Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="9">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:03:58.573499Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="8">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T15:03:47.145078Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:45:52.425726Z</date>
+<paths>
+<path
+   action="M">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:30:27.115217Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:29:28.043223Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:29:22.605940Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:29:17.066200Z</date>
+<paths>
+<path
+   action="A">/somefile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:29:02.858305Z</date>
+<paths>
+<path
+   action="A">/Dokumente</path>
+</paths>
+<msg>Created folder remotely</msg>
+</logentry>
+<logentry
+   revision="1">
+<author>uid=user1,dc=iteratec,dc=de</author>
+<date>2006-05-04T13:28:34.859033Z</date>
+<paths>
+<path
+   action="A">/Anwendung</path>
+</paths>
+<msg></msg>
+</logentry>
+</log>

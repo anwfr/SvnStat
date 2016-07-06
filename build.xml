@@ -1,0 +1,158 @@
+<project name="SvnStat" default="help" basedir=".">
+
+  <description>
+
+  </description>
+
+  <property environment="os" />
+  <property file="${basedir}/build.properties" />
+
+  <path id="project.classpath">
+    <fileset dir="${lib.dev}">
+      <include name="*.jar" />
+    </fileset>
+    <fileset dir="${lib.rt}">
+      <include name="*.jar" />
+    </fileset>
+  </path>
+
+  <target name="init">
+    <echo>
+    </echo>
+
+    <mkdir dir="${javadoc}" />
+    <mkdir dir="${build}" />
+    <mkdir dir="${build.classes}" />
+    <mkdir dir="tmp" />
+  </target>
+
+
+  <target name="help" depends="init" description="Print the help message">
+    <echo>
+
+    The targets of this build file automate the build and deployment tasks of the project. Use
+    "ant -projecthelp" to obtain a list of available target together with a short description
+    of each task.
+
+    </echo>
+  </target>
+
+  <target name="build" depends="init" description="Build the project">
+    <echo>
+	-- Compiling ... --
+    </echo>
+    <javac srcdir="${src.java}" destdir="${build.classes}" includes="**/*.java" debug="on">
+
+      <classpath>
+        <path refid="project.classpath" />
+      </classpath>
+    </javac>
+
+    <copy todir="${build.classes}">
+      <fileset dir="${src.java}" includes="**/*.properties" />
+    </copy>
+
+  </target>
+
+  <target name="run">
+  	<java classname="de.agentlab.svnstat.SvnStat" fork="yes">
+  	  <arg line="-r examples/svnlog/test_svnlog.xml"/>
+  	  <arg line="-d tmp/svnstat"/>
+  	  <arg line="-begin 2006-05-05"/>
+  	  <arg line="-end 9999-99-99"/>
+
+  	  <classpath>
+        <path refid="project.classpath"/>
+  	    <pathelement location="${build.classes}"/>
+      </classpath>
+
+  	</java>
+  </target>
+
+  <target name="jar" depends="build" description="Generate the jar file of the project classes">
+
+    <delete>
+      <fileset dir="${build}" includes="${jarfilename}*.jar" />
+    </delete>
+
+    <jar jarfile="${build}/${jarfilename}.jar"
+         basedir="${build.classes}"
+         includes="**/*.class, **/*.properties" />
+  </target>
+
+  <target name="bundle" depends="jar">
+    <description>
+  	  Bundle the jar file with the required run-time libraries.
+	</description>
+
+    <zip destfile="${build}/${bundlefilename}.jar">
+      <zipfileset src="${lib}/rt/jCharts-0.7.5.jar" />
+      <zipfileset src="${lib}/rt/jaxen-core.jar" />
+      <zipfileset src="${lib}/rt/jaxen-jdom.jar" />
+      <zipfileset src="${lib}/rt/jdom.jar" />
+      <zipfileset src="${lib}/rt/saxpath.jar" />
+      <zipfileset src="${lib}/rt/commons-math-1.1.jar" />
+      <zipfileset src="${lib}/rt/commons-collections-3.2.jar" />
+      <zipfileset src="${build}/${jarfilename}.jar" />
+    </zip>
+
+  </target>
+
+  <target name="dist" depends="bundle, javadoc">
+
+    <zip destfile="${build}/${distfilename}-${version}.zip" excludes="CVS/**" >
+      <zipfileset file="${build}/${bundlefilename}.jar" prefix="${distfilename}-${version}/"/>
+      <zipfileset dir="${lib}"  prefix="${distfilename}-${version}/lib"/>
+      <zipfileset dir="doc" excludes="README" prefix="${distfilename}-${version}/doc" />
+      <zipfileset dir="examples" prefix="${distfilename}-${version}/examples" />
+      <zipfileset dir="${javadoc}" prefix="${distfilename}-${version}/doc/api" />
+      <zipfileset dir="doc" includes="README" prefix="${distfilename}-${version}"/>
+      <zipfileset dir="${src.java}" includes="de/agentlab/svnstat/SvnStat.properties" fullpath="${distfilename}-${version}/examples/SvnStat.properties"/>
+      <zipfileset dir="${src.java}" prefix="${distfilename}-${version}/src/java"/>
+      <zipfileset dir="." includes="build*" prefix="${distfilename}-${version}"/>
+      <zipfileset dir="testdata" includes="test_svnlog.xml" prefix="${distfilename}-${version}/examples/svnlog" />
+    </zip>
+  </target>
+
+  <target name="javadoc"
+          depends="init"
+          description="Generate javadoc documentation for the project">
+    <javadoc sourcepath="${src.java}"
+             destdir="${javadoc}"
+             author="true"
+             version="true"
+             use="true"
+             windowtitle="${javadoc.windowtitle}"
+             doctitle="${javadoc.doctitle}"
+             bottom="${javadoc.bottom}">
+
+      <classpath>
+        <path refid="project.classpath" />
+      </classpath>
+
+      <fileset dir="${src.java}" defaultexcludes="yes">
+        <include name="**/*.java" />
+      </fileset>
+
+    </javadoc>
+  </target>
+
+  <target name="clean" depends="init" description="Delete all temporary files from the project">
+    <delete>
+      <fileset dir="." defaultexcludes="no">
+        <include name="**/*.bak" />
+        <include name="**/*~" />
+        <include name="TEST*.txt" />
+      </fileset>
+    </delete>
+  </target>
+
+  <target name="realclean"
+          depends="init,clean"
+          description="Delete all temporary and generated files from the project">
+    <delete dir="${javadoc}" />
+    <delete dir="${build}" />
+  </target>
+
+</project>
+
