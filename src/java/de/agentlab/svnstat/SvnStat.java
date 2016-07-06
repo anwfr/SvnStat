@@ -1,5 +1,5 @@
 /*
- * Copyright © 2006, 2014 Juergen Lind (jli@agentlab.de), 2014 Joe Egan (J0e3gan@gmail.com).
+ * Copyright ï¿½ 2006, 2014 Juergen Lind (jli@agentlab.de), 2014 Joe Egan (J0e3gan@gmail.com).
  * 
  * This program is free software; you can redistribute it and/or modify it under the terms of the
  * GNU General Public License as published by the Free Software Foundation; either version 2.1 of
@@ -23,14 +23,12 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
-import java.util.Collections;
-import java.util.Iterator;
-import java.util.List;
-import java.util.PropertyResourceBundle;
+import java.util.*;
 
 import org.jdom.Content;
 import org.jdom.Document;
 import org.jdom.Element;
+import org.jdom.JDOMException;
 import org.jdom.input.SAXBuilder;
 import org.jdom.xpath.XPath;
 
@@ -41,6 +39,7 @@ public class SvnStat {
     private String outdir;
     private String beginDate = null;
     private String endDate   = null;
+    private String exclude = null;
 
     public boolean init(CLI cli) {
         String configfile = cli.getStringOption("config");
@@ -68,6 +67,8 @@ public class SvnStat {
 
         this.beginDate = cli.getStringOption("begin");
         this.endDate = cli.getStringOption("end");
+
+        this.exclude = cli.getStringOption("e");
 
         return true;
     }
@@ -132,6 +133,11 @@ public class SvnStat {
             for (Iterator<Content> i = document.getRootElement().getContent().iterator(); i.hasNext();) {
                 Content logEntry = i.next();
                 if (logEntry instanceof Element) {
+
+                    if (isExcludedCommit((Element)logEntry)) {
+                        continue;
+                    }
+
                     String authorStr;
 
                     Element authorNode = ((Element) logEntry).getChild("author");
@@ -188,6 +194,35 @@ public class SvnStat {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    private List<String> getExclusions() {
+        List<String> excludes = new ArrayList<String>();
+
+        if (exclude != null) {
+            excludes.addAll(Arrays.asList(exclude.split(",")));
+        }
+
+        return excludes;
+    }
+
+    private boolean isExcludedCommit(Element logEntry) throws JDOMException {
+        boolean isExclude = false;
+        String file = "none";
+        List nodes = XPath.selectNodes(logEntry, "paths/path");
+        for (Iterator j = nodes.iterator(); j.hasNext();) {
+            Element element = (Element) j.next();
+            file = element.getValue();
+
+            for (String exclusion : getExclusions()) {
+                if (file.matches(exclusion)) {
+                    System.out.println("excluded "+exclusion+" : "+file);
+                    return true;
+                }
+                System.out.println("OK "+exclusion+" : "+file);
+            }
+        }
+        return false;
     }
 
     public InputStream getSvnLog(String url) {
