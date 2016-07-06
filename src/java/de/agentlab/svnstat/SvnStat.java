@@ -17,20 +17,15 @@
 
 package de.agentlab.svnstat;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.PrintWriter;
-import java.util.*;
+import org.jdom2.Content;
+import org.jdom2.Document;
+import org.jdom2.Element;
+import org.jdom2.JDOMException;
+import org.jdom2.input.SAXBuilder;
+import org.jdom2.xpath.XPath;
 
-import org.jdom.Content;
-import org.jdom.Document;
-import org.jdom.Element;
-import org.jdom.JDOMException;
-import org.jdom.input.SAXBuilder;
-import org.jdom.xpath.XPath;
+import java.io.*;
+import java.util.*;
 
 
 public class SvnStat {
@@ -216,10 +211,8 @@ public class SvnStat {
 
             for (String exclusion : getExclusions()) {
                 if (file.matches(exclusion)) {
-                    System.out.println("excluded "+exclusion+" : "+file);
                     return true;
                 }
-                System.out.println("OK "+exclusion+" : "+file);
             }
         }
         return false;
@@ -311,7 +304,8 @@ public class SvnStat {
                 "[-d <outputDir>] " +
                 "[-config <configfile>] " +
                 "[-begin <date>] " +
-                "[-end <date>]");
+                "[-end <date>]" +
+                "[-e <excludeRegex1,excludeRegex2...>] ");
         System.out.println(
             "               (To use a logfile, the log must be retrieved using --verbose and --xml.)");
     }
