@@ -1,5 +1,5 @@
 /*
- * Copyright © 2006 Juergen Lind (jli@agentlab.de), 2014 Joe Egan (J0e3gan@gmail.com).
+ * Copyright ï¿½ 2006 Juergen Lind (jli@agentlab.de), 2014 Joe Egan (J0e3gan@gmail.com).
  * 
  * This program is free software; you can redistribute it and/or modify it under the terms of the
  * GNU General Public License as published by the Free Software Foundation; either version 2.1 of
@@ -271,7 +271,10 @@ public class Graph {
     private Paint[] getPaints(int count) {
         Paint[] result = new Paint[count];
         for (int i = 0; i < count; i++) {
-            result[i] = (Paint) paints.get(i);
+            Object paint = paints.get(i);
+            if (paint instanceof Paint) {
+                result[i] = (Paint) paints.get(i);
+            }
         }
         return result;
     }
